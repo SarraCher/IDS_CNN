@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['..\\.spyder-py3\\temp.py', 'cicidsWednesday.py', 'cicidsFridayBot.py', 'cicidsWednesdayBinary.py', 'cicidsThursdayinfil.py', 'cicidsThursdayWeb.py', 'cicidsFridayDDos.py', 'cicidsFridayPortScan.py', 'cicidsTuesday.py', 'cicidsFridayPortScanBinary.py', 'ToN-IoTwindows10.py', 'Edge-IIoTset.py', 'ToN-IoTwindows7.py', 'ToN-IoTwindows10Binary.py', 'cicidsFridayBotBinary.py', 'cicidsFridayDDosBinary.py', 'cicidsThursdayInfilBinary.py', 'cicidsThursdayWebBinary.py', 'cicidsTuesdayBinary.py', 'ToN-IoTwindows7Binary.py', 'Edge-IIoTsetBinary.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
